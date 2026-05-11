@@ -1,0 +1,37 @@
+body {
+    font-size: 25px;
+}
+i {
+    font-size: 35px;
+
+}
+.dishes {
+    font-size: 30px;
+    color: rgb(255, 82, 29);
+}
+h1 {
+    color: rgb(33, 203, 194);
+
+}
+h2 {
+    color: darkcyan;
+    border-top: 3px solid rgb(33, 203, 194);
+    border-bottom: 3px solid rgb(33, 203, 194);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.privacy {
+    color: rgb(255, 136, 181); 
+}
+.lagoon {
+    color: rgb(90, 192, 255);
+}
+.snorkeling {
+    color: rgb(85, 0, 128);
+}
+.bungalows {
+    color: darkgreen;
+}
+.culture {
+    color: orange;
+}
